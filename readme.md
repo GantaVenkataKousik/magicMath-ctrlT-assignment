@@ -1,6 +1,6 @@
 Welcome to the Magic Math Application! This application calculates a special sequence called "Magic Math" and exposes it via a REST API using Node.js and Express.
 
-<img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Image">
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 ## What is Magic Math?
 
@@ -19,7 +19,7 @@ This sequence is similar to the Fibonacci sequence but with an additional term \
 
 ## Getting Started
 
- <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Image">
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 ### Prerequisites
 
@@ -37,7 +37,7 @@ This sequence is similar to the Fibonacci sequence but with an additional term \
     ```bash
     npm install
     ```
-<img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Image">
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 ### Running the Application
 
