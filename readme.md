@@ -41,15 +41,32 @@ This sequence is similar to the Fibonacci sequence but with an additional term \
 
 ### Running the Application
 
+
 1. **Start the server**:
-     
+     - There are two ways to run the server based on my previous experience:
+
     - Using Node.js directly:
       ```bash
       node server.js
       ```
-
+    - Using npm:
+      ```bash
+      npm start
+      ```
 
 2. **Access the API**:
+    - Based on my previous experience, I've mentioned three ways to access the API:
+
+    - **Using a Web Browser**:
+      - Open your web browser.
+      - Enter the URL: `http://127.0.0.1:5000/1` in the address bar.
+      - Press Enter to see the JSON response directly in the browser.
+
+    - **Using Postman**:
+      - Open Postman.
+      - Create a new GET request.
+      - Enter the URL: `http://127.0.0.1:5000/1`
+      - Click "Send" to see the response.
 
     - **Using curl**:
       ```bash
