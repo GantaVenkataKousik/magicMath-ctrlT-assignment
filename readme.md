@@ -29,7 +29,7 @@ This sequence is similar to the Fibonacci sequence but with an additional term \
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/GantaVenkataKousik/ctrlT-assignment.git
+    git clone https://github.com/GantaVenkataKousik/magicMath-ctrlT-assignment
     cd ctrlT-assignment
     ```
 
